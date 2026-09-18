@@ -34,7 +34,7 @@
 ```
 
 **B.Tech CSE (AI & ML) · VIT-AP University · Class of 2027**  
-🕹️ *Deep Learning · Geospatial AI · NLP · Computer Vision · IoT*
+ *Deep Learning · Geospatial AI · NLP · Computer Vision · IoT*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bidyashore-lourembam-8a62502b9/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BidyashoreL)
@@ -44,7 +44,7 @@
 
 ---
 
-## 🗺️ WORLD MAP — THE QUEST SO FAR
+##  WORLD MAP — THE QUEST SO FAR
 
 ```
 🏁 START ──► [WORLD 1] ──► [WORLD 2] ──► [WORLD 3] ──► [WORLD 4] ──► 🏆 ???
@@ -60,7 +60,7 @@
 
 ---
 
-## ⭐ POWER-UPS COLLECTED — TECH STACK
+## POWER-UPS COLLECTED — TECH STACK
 
 <div align="center">
 
@@ -75,7 +75,7 @@
 
 ---
 
-## 🏰 BOSS LEVELS — PROJECTS
+##  BOSS LEVELS — PROJECTS
 
 > *Real problems. Real data. Real impact.* 🗡️
 
@@ -98,7 +98,7 @@ DIFFICULTY: ██████████ EXTREME     STATUS: 🥈 2nd / 1,007+
 
 ---
 
-### 🕐 BOSS 2 — THE TIME LORD
+###  BOSS 2 — THE TIME LORD
 **`CKGI: Time-Aware NLP with Knowledge Graphs`**
 
 ```
@@ -113,7 +113,7 @@ DIFFICULTY: █████████░ VERY HARD   STATUS: ★★★ 94.2% A
 
 ---
 
-### 🌊 BOSS 3 — THE FLOOD OVERLORD
+###  BOSS 3 — THE FLOOD OVERLORD
 **`Urban Flood Risk Mapping — Research Journal`**
 
 ```
@@ -130,7 +130,7 @@ DIFFICULTY: ████████░░ HARD        STATUS: ★★★ 85.2% I
 
 ---
 
-### 🗣️ BOSS 4 — THE LANGUAGE GUARDIAN
+###  BOSS 4 — THE LANGUAGE GUARDIAN
 **`Manipuri (Meitei) Speech-to-Text Pipeline — NIT Imphal Internship`**
 
 ```
@@ -146,7 +146,7 @@ DIFFICULTY: █████████░ VERY HARD   STATUS: ★★★ INTERNS
 
 ---
 
-## 📊 STATS SCREEN
+##  STATS SCREEN
 
 <div align="center">
 
